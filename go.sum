@@ -6,6 +6,9 @@ github.com/Azure/azure-sdk-for-go v8.1.0-beta+incompatible h1:J3TXZumExuehtV+5t3
 github.com/Azure/azure-sdk-for-go v8.1.0-beta+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/Azure/go-autorest v9.1.0+incompatible h1:SJrqXnGlxS9FWlSsu3H9Cxcrvco2L4Gmn9p6AVugIEk=
 github.com/Azure/go-autorest v9.1.0+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
+github.com/Azure/go-autorest v9.10.0+incompatible h1:bsri0JnC11oSNMWYkx5tCcfZziOjp8wKoAFaH9xI5Mc=
+github.com/Azure/go-autorest v9.10.0+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
+github.com/Azure/go-autorest v13.3.0+incompatible h1:8Ix0VdeOllBx9jEcZ2Wb1uqWUpE1awmJiaHztwaJCPk=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Microsoft/azure-vhd-utils v0.0.0-20161127050200-43293b8d7646 h1:fcoVWIsxst9kR4rX9gS4v2TnCqr8qCiTNhZn1kFwkeg=
 github.com/Microsoft/azure-vhd-utils v0.0.0-20161127050200-43293b8d7646/go.mod h1:ShD4+ef/PGSGjqi4XYHwhYHoHQ61U0Qy0UXABMLCS3c=

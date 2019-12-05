@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/Azure/azure-sdk-for-go v8.1.0-beta+incompatible
-	github.com/Azure/go-autorest v9.1.0+incompatible
+	github.com/Azure/go-autorest v9.10.0+incompatible
 	github.com/Microsoft/azure-vhd-utils v0.0.0-20161127050200-43293b8d7646
 	github.com/ajeddeloh/yaml v0.0.0-20170912190910-6b94386aeefd // indirect
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
