@@ -64,7 +64,7 @@ require (
 	github.com/vincent-petithory/dataurl v0.0.0-20160330182126-9a301d65acbb
 	github.com/vishvananda/netlink v0.0.0-20150710184826-9cff81214893
 	github.com/vishvananda/netns v0.0.0-20150710222425-604eaf189ee8
-	github.com/vmware/govmomi v0.15.0
+	github.com/vmware/govmomi v0.21.0
 	github.com/xiang90/probing v0.0.0-20160813154853-07dd2e8dfe18 // indirect
 	go4.org v0.0.0-20180809161055-417644f6feb5 // indirect
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
