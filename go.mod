@@ -25,7 +25,7 @@ require (
 	github.com/coreos/yaml v0.0.0-20141224210557-6b16a5714269 // indirect
 	github.com/cpuguy83/go-md2man v1.0.4 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/digitalocean/godo v1.1.3
+	github.com/digitalocean/godo v1.28.0
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/godbus/dbus v0.0.0-20181025153459-66d97aec3384
 	github.com/gogo/protobuf v1.2.1 // indirect
